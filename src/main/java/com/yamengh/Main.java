@@ -7,8 +7,9 @@ public class Main {
     }
 
     public static String methodOne() {
-        return "methodOne: Hello from methodOne";
+        return "methodOne: Edited in branchA";
     }
+
 
     public static String methodTwo() {
         return "methodTwo: Hello from methodTwo";
