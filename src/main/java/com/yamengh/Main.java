@@ -11,6 +11,7 @@ public class Main {
     }
 
     public static String methodTwo() {
-        return "methodTwo: Hello from methodTwo";
+        return "methodTwo: Edited in branchB";
     }
+
 }
